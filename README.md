@@ -1,1 +1,1 @@
-# pytest-gtaf
+# Generic Python Test Automation Framework
